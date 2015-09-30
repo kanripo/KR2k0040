@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 欽定盛京通志
+#+DATE: 2015-08-24 22:40:39.884681
+#+PROPERTY: ID KR2k0040
+#+PROPERTY: BASEEDITION WYG    
